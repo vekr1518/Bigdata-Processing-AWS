@@ -5,7 +5,7 @@ In this project, we are going to process a dataset from kaggle (Amazon Book Rati
 We are going to process this 3 GB data in AWS EMR Framework.
 
 ## Architecture
-(https://github.com/vekr1518/Bigdata-Processing-AWS/blob/main/Architecture_EMR.png)
+![This is an image](https://github.com/vekr1518/Bigdata-Processing-AWS/blob/main/Architecture_EMR.png)
 
 ## Implementation Steps
 * Load the source data from [Kaggle](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews) to S3 bucket
