@@ -15,5 +15,5 @@ We are going to process this 3 GB data in AWS EMR Framework.
 * Execute the script using spark-submit
 * After processing, we can see the filtered data loaded to S3 bucket
 
-> * Without spark and hadoop installation,  we can process the bigdata using AWS Elastic Mapreduce (EMR) Framework
+> ## Without spark and hadoop installation,  we can process the bigdata using AWS Elastic Mapreduce (EMR) Framework
 
