@@ -8,4 +8,6 @@ We are going to process this 3 GB data in AWS EMR Framework.
 
 ## Implementation Steps
 * Load the source data from [Kaggle](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews) to S3 bucket
+* Create an EMR cluster with EC2 instance
+* 
 
